@@ -8,6 +8,6 @@
 - d-conroller yapıları 
 - e-depency injection yapısına dahil edilmesi 
  
-*Bu yapıları mimarimize uygun olacak şekilde implemente edilmelidir.*
+*Bu yapıları mimarimize uygun olacak şekilde implemente edildi.*
 
-*Bu yapıda eğer kullanıcı token almadıysa hiç bir işlem yapmayacak şekilde olmalı*
+*Bu yapıda eğer kullanıcı token almadıysa hiç bir işlem yapmayacak şekilde düzenelndi*
