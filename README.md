@@ -6,7 +6,7 @@
 - b-bll 
 - c-dal 
 - d-conroller yapıları 
-- e-depency injection yapısına dahil edilmesi 
+- e-depency injection yapısına dahil edildi 
  
 *Bu yapılar mimarimize uygun olacak şekilde implemente edildi.*
 
